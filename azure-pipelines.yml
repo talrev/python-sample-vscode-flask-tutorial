@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  My Laptop Local Pool
+  'My Laptop Local Pool'
 #  vmImage: ubuntu-latest
 strategy:
   matrix:
